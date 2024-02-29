@@ -11,4 +11,3 @@ This project is a dice rolling simulator built with HTML, CSS, and JavaScript. I
 - Roll a 6-sided die with a single click
 - Display the result of the roll with an animation
 - Keep track of the history of dice rolls
-# dice-simulator
